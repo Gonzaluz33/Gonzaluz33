@@ -1,5 +1,5 @@
 ## Hi there, my name is Gonzalo Luz 👋
-<--
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
