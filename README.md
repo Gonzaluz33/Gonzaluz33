@@ -2,6 +2,9 @@
 
 ## Where to Find Me:
 
+<a href="www.linkedin.com/in/gonzalo-luz-alvarez-012333293" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
+
+<a href="mailto:gonzaluz2011@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gonzalo luz" height="30" width="40" />gonzaluz2011@gmail.com</a>
 <!--
 **Gonzaluz33/Gonzaluz33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
