@@ -1,7 +1,7 @@
 ## Hi there, my name is Gonzalo Luz 👋
 
 ## Where to Find Me:
-[![LinkedIn](LinkedIn_logo.svg)](www.linkedin.com/in/gonzalo-luz-alvarez-012333293)
+
 <!--
 **Gonzaluz33/Gonzaluz33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
